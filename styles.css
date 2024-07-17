@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: linear-gradient(45deg, #007BFF, #00FF88);
+    padding: 10px 0;
+    transition: background-color 0.3s ease;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    margin: 0 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+    color: #FFD700;
+}
+
+section {
+    padding: 100px 20px;
+    margin-top: 60px;
+}
+
+#home {
+    background-color: #f4f4f4;
+}
+
+#trends, #ai, #tech, #contact {
+    background-color: #e2e2e2;
+    margin-top: 10px;
+}

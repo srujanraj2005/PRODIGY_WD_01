@@ -9,4 +9,4 @@
 
 
 
-<p>You can view the live example here &nbsp; <a href="https://github.com/srujanraj2005/PRODIGY_WD_01">LIVE </a></p>
+<p>You can view the live example here &nbsp; <a href="https://srujanraj2005.github.io/PRODIGY_WD_01/">LIVE </a></p>
